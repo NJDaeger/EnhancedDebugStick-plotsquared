@@ -79,6 +79,9 @@
                 </includes>
             </resource>
         </resources>
+
+        <finalName>EnhancedDebugStick-PlotSquared-v${project.version}</finalName>
+
     </build>
 
 </project>
